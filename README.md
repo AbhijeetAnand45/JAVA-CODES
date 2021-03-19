@@ -15,3 +15,4 @@ In this repository I will add the programs related to java programming from basi
 9. Program to check prime Number
 PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 10. Program to check pelidrome Number.
+11. Printing patterns : One can esily gets the codes of various types of pattern from here.
