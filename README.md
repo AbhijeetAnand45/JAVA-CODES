@@ -12,3 +12,6 @@ In this repository I will add the programs related to java programming from basi
 6. Program to solve Quadratic Equation by taking input a,b,c as ax^2 + bx + c where a is not zero and print all the real solution.
 7. Find sum of natural number between a and b using recursion.
 8. Find Fibonacci series with recursion.
+9. Program to check prime Number
+PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
+10. Program to check pelidrome Number.

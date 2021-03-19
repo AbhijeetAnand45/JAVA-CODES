@@ -4,11 +4,12 @@ public class ConstructorOverloading {
     public ConstructorOverloading(){
         System.out.println("\nThis is a default constuctor");
     }
-    public ConstructorOverloading(int i, String n){
+    public ConstructorOverloading(int i, String n){    // CONSTRUCTOR OVERLOADED.(SAME NAME DIFFERENT NO. OF ARGUMENT.)
         id = i;
         name = n;
 
     }
+    // MAIN FUNCTION.
     public static void main(String[] args) {
         ConstructorOverloading obj = new ConstructorOverloading();
         System.out.println("Default constructor Values\n");

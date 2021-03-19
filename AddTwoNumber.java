@@ -7,7 +7,7 @@ public class AddTwoNumber {
         int n = sc.nextInt();
         System.out.println("Please Enter the second No : ");
         int m = sc.nextInt();
-        System.out.println("The sum of two Number is: " + (n+m));
+        System.out.println("The sum of two Number is: " + (n+m)); //ADDING TWO NUMBER 
         sc.close();
 
     }
