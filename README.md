@@ -16,3 +16,4 @@ In this repository I will add the programs related to java programming from basi
 PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 10. Program to check pelidrome Number.
 11. Printing patterns : One can esily gets the codes of various types of pattern from here.
+12. Armstrong Number in Java: A positive number is called armstrong number if it is equal to the sum of cubes of its digits. for example 0, 1, 153, 370, 371, 407 etc.
