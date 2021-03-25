@@ -17,3 +17,11 @@ PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 10. Program to check pelidrome Number.
 11. Printing patterns : One can esily gets the codes of various types of pattern from here.
 12. Armstrong Number in Java: A positive number is called armstrong number if it is equal to the sum of cubes of its digits. for example 0, 1, 153, 370, 371, 407 etc.
+13. prints the ASCII value (0 to 255) of all the characters.
+
+14. Write a program that creates a user interface to perform integer addition.The user enters two numbers in the text fields, Num1 and Num2. The addition of Num1 and Num2 is displayed in the Result field when the ADD button is clicked.
+   */ Use jdk 1.8 version and give command javac integeraddition.java to compile the program 
+    and give command appletviewer integeraddition.java to view the result in the applet viewer */
+15. Write a program that creates a user interface to perform integer divisions. The userenters two numbers in the text fields, Num1 and Num2. The division of Num1 and Num2 is displayed in the Result field when the Divide button is clicked. If Num1 or Num2 were not an integer, the program would throw Number Format Exception. If Num2 were Zero, the program would throwan Arithmetic Exception Display the exception in a message dialog box.
+ */ Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program 
+    and give command "appletviewer integeraddition.java" to view the result in the applet viewer */
