@@ -26,11 +26,7 @@ PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 - */ Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program 
     and give command "appletviewer integeraddition.java" to view the result in the applet viewer */
 # pattern problems
-## Here you will get following pattern : 
+## Here you  will also get  pattern Problem which helps to understand nested for loop and develop logical thinking : 
 
 - You have to go through code to understand Each pattern
- 1. 
-   -  * * * * *
-   -  * * * * *
-   -  * * * * *
-   -  * * * * *
+ 
