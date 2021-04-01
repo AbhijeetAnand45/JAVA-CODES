@@ -1,8 +1,8 @@
 # JAVA-CODES
 
-Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+## Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
 
-In this repository I will add the programs related to java programming from basic to advance.
+## In this repository I will add the programs related to java programming from basic to advance.
 
 1. Hello world with java
 2. Addition of two number in java with input from user.
@@ -19,9 +19,18 @@ PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 12. Armstrong Number in Java: A positive number is called armstrong number if it is equal to the sum of cubes of its digits. for example 0, 1, 153, 370, 371, 407 etc.
 13. prints the ASCII value (0 to 255) of all the characters.
 
-14. Write a program that creates a user interface to perform integer addition.The user enters two numbers in the text fields, Num1 and Num2. The addition of Num1 and Num2 is displayed in the Result field when the ADD button is clicked.
-   */ Use jdk 1.8 version and give command javac integeraddition.java to compile the program 
-    and give command appletviewer integeraddition.java to view the result in the applet viewer */
+14. Write a program that creates a user interface to perform integer addition.The user enters two numbers in the text fields, Num1 and Num2.
+- The addition of Num1 and Num2 is displayed in the Result field when the ADD button is clicked.
+- */ Use jdk 1.8 version and give command javac integeraddition.java to compile the program  and give command appletviewer integeraddition.java to view the result in the applet viewer */
 15. Write a program that creates a user interface to perform integer divisions. The userenters two numbers in the text fields, Num1 and Num2. The division of Num1 and Num2 is displayed in the Result field when the Divide button is clicked. If Num1 or Num2 were not an integer, the program would throw Number Format Exception. If Num2 were Zero, the program would throwan Arithmetic Exception Display the exception in a message dialog box.
- */ Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program 
+- */ Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program 
     and give command "appletviewer integeraddition.java" to view the result in the applet viewer */
+# pattern problems
+## Here you will get following pattern : 
+
+- You have to go through code to understand Each pattern
+ 1. 
+   -  * * * * *
+   -  * * * * *
+   -  * * * * *
+   -  * * * * *
