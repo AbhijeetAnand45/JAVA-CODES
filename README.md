@@ -25,6 +25,10 @@ PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 15. Write a program that creates a user interface to perform integer divisions. The userenters two numbers in the text fields, Num1 and Num2. The division of Num1 and Num2 is displayed in the Result field when the Divide button is clicked. If Num1 or Num2 were not an integer, the program would throw Number Format Exception. If Num2 were Zero, the program would throwan Arithmetic Exception Display the exception in a message dialog box.
 - */ Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program 
     and give command "appletviewer integeraddition.java" to view the result in the applet viewer */
+16. Develop an applet that displays a simple message.
+17. Develop an applet that creates choice control from a simple list containing 5 items.
+18. Develop an applet that receives an integer in one text field and computes its factorial value <br> Return its result value in another text field when the button named compute is clicked. 
+
 # pattern problems
 ## Here you  will also get  pattern Problem which helps to understand nested for loop and develop logical thinking : 
 
