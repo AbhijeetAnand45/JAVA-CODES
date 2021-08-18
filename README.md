@@ -14,20 +14,20 @@
 - give the command in your terminal :- 
 ` git clone https://github.com/[YourUserName]/JAVA-CODES.git `
 
-- open it in your editor (Preferred vs code) and make changes by creating a new branch and then push your code to github , finally make a pull request.
-
+- open it in your editor (Preferred vs code) , create a new branch in terminal of the same directory And add new files ex - Sample.java and write some code and run it using command `javac Sample.java` for compile and `java Sample` to run the program. (In doing all this , make sure you are always in right directory).
+-  Then push your code to github , finally make a pull request to make your first contribution to open source.
 
 ## Content
 
 -  In this repository I have added the java codes for various Problems.
 ***
- [Applet files]()
- [General Question]()
- [Pattern Problems]()
+ - [Applet files](https://github.com/aabhijeet011/JAVA-CODES/tree/master/Applet)
+ - [General Question](https://github.com/aabhijeet011/JAVA-CODES/tree/master/GeneralQuestion)
+ - [Pattern Problems](https://github.com/aabhijeet011/JAVA-CODES/tree/master/Pattern)
 ***
 
 
-** Details of Questions **
+**Details of Questions**
 
 1. Hello world with java
 2. Addition of two number in java with input from user.
