@@ -1,8 +1,33 @@
-# JAVA-CODES
+# JAVA-Programming 
 
-## Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+## About
 
-## In this repository I will add the programs related to java programming from basic to advance.
+-  Java is a programming language. Java is a high level, robust, object-oriented and secure programming language.
+- This Repository is all about learning basics of Programming in Java.
+
+
+## Setup 
+
+- install java in your system.
+- fork this repository and then go to your respository and copy the link(in right corner) to clone it.
+
+- give the command in your terminal :- 
+` git clone https://github.com/[YourUserName]/JAVA-CODES.git `
+
+- open it in your editor (Preferred vs code) and make changes by creating a new branch and then push your code to github , finally make a pull request.
+
+
+## Content
+
+-  In this repository I have added the java codes for various Problems.
+***
+ [Applet files]()
+ [General Question]()
+ [Pattern Problems]()
+***
+
+
+** Details of Questions **
 
 1. Hello world with java
 2. Addition of two number in java with input from user.
@@ -20,17 +45,20 @@ PELIDROME NUMBER IS A NUMBER WHICH IS SAME AFTER REVERSSING IT.
 13. prints the ASCII value (0 to 255) of all the characters.
 
 14. Write a program that creates a user interface to perform integer addition.The user enters two numbers in the text fields, Num1 and Num2.
-- The addition of Num1 and Num2 is displayed in the Result field when the ADD button is clicked.
-- */ Use jdk 1.8 version and give command javac integeraddition.java to compile the program  and give command appletviewer integeraddition.java to view the result in the applet viewer */
+    * The addition of Num1 and Num2 is displayed in the Result field when the ADD button is clicked.
+    * Use jdk 1.8 version and give command javac integeraddition.java to compile the program  and give command appletviewer integeraddition.java to view the result in the applet viewer.
 15. Write a program that creates a user interface to perform integer divisions. The userenters two numbers in the text fields, Num1 and Num2. The division of Num1 and Num2 is displayed in the Result field when the Divide button is clicked. If Num1 or Num2 were not an integer, the program would throw Number Format Exception. If Num2 were Zero, the program would throwan Arithmetic Exception Display the exception in a message dialog box.
-- */ Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program 
-    and give command "appletviewer integeraddition.java" to view the result in the applet viewer */
+    * Use jdk 1.8 version and give command "javac integeraddition.java" to compile the program and give command "appletviewer integeraddition.java" to view the result in the applet viewer.
+
+`javac programName.java `  to compile the code
+`appletviewer programName.java`  to view in applet
+ 
+
+
 16. Develop an applet that displays a simple message.
 17. Develop an applet that creates choice control from a simple list containing 5 items.
 18. Develop an applet that receives an integer in one text field and computes its factorial value <br> Return its result value in another text field when the button named compute is clicked. 
 
-# pattern problems
-## Here you  will also get  pattern Problem which helps to understand nested for loop and develop logical thinking : 
 
-- You have to go through code to understand Each pattern
- 
+
+
